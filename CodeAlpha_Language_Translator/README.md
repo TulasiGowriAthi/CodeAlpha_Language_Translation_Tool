@@ -55,6 +55,7 @@ Developed as part of the **CodeAlpha Artificial Intelligence Internship**.
 🎬 Project Demonstration
 
 Watch the full operational workflow and video breakdown of this project on LinkedIn:
-👉 Click Here to Watch the Project Video on LinkedIn
+
+[👉 Click Here to Watch the Project Video on LinkedIn](https://www.linkedin.com/posts/tulasigowriathi_artificialintelligence-python-streamlit-ugcPost-7470458986321002496-BKuV/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFK6WhcB_AK2m3SFl04KRCR0ZfWPdcI0Li0&utm_campaign=copy_link)
 
 Developed with 💙 by Tulasi Gowri during the CodeAlpha AI Internship.
